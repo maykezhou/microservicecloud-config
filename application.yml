@@ -7,10 +7,10 @@ spring:
 spring:
     profiles: dev  #开发环境
     application:
-     name:microservicecloud-config-mayke-dev
+     name: microservicecloud-config-mayke-dev
 ---
 
 spring:
     profiles: test  #开发环境
     application:
-     name:microservicecloud-config-mayke-test
+     name: microservicecloud-config-mayke-test
